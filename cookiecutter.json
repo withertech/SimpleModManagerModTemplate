@@ -1,0 +1,10 @@
+{
+    "id": "examplemod",
+    "titleid": "0100000000000000",
+    "name": "Example",
+    "version": "1.0.0",
+    "description": "An Example Mod",
+    "author": "Example Author",
+    "website": "http://example.com",
+    "icon": "icon.png"
+}

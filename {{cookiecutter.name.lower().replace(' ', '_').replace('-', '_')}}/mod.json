@@ -1,0 +1,13 @@
+{
+    "id": "{{cookiecutter.id}}",
+    "titleid": "{{cookiecutter.titleid}}",
+    "name": "{{cookiecutter.name}}",
+    "version": "{{cookiecutter.version}}",
+    "description": "{{cookiecutter.description}}",
+    "author": "{{cookiecutter.author}}",
+    "website": "{{cookiecutter.website}}",
+    "icon": "{{cookiecutter.icon}}",
+    "dependencies": [
+        
+    ]
+}
